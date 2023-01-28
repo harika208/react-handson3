@@ -9,7 +9,7 @@ body{
 }
 .spa{
     background-color: rgb(149, 149, 246);
-    min-height: 200px;
+    min-height: 100px;
     text-align: left;
     border: 2px solid black;
     margin: 10px 100px;
